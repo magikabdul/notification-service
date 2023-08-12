@@ -25,8 +25,6 @@ jobs:
       - name: Build with Maven
         run: mvn -B package --file pom.xml
 
-  notify:
-    steps:
       - uses: sarisia/actions-status-discord@v1
         if: always()
         with:
