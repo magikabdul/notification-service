@@ -30,6 +30,4 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: ${{ job.status }}
-          title: "deploy"
-          description: "Build and deploy to GitHub Pages"
-  #        color: 0x0000ff
+          title: "CI"
