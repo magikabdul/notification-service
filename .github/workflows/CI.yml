@@ -42,4 +42,3 @@ jobs:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: ${{ job.status }}
           title: "CI"
-          title: "CI - failure"
