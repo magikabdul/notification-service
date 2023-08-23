@@ -3,6 +3,7 @@
 [![CI](https://github.com/magikabdul/notification-service/actions/workflows/CI.yml/badge.svg)](https://github.com/magikabdul/notification-service/actions/workflows/CI.yml)
 
 ![Java](https://img.shields.io/badge/java-17-yellow?style=plastic)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-3.1.2-blue?style=plastic)
 
 ![GitHub issues](https://img.shields.io/github/issues/magikabdul/notification-service?style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/magikabdul/notification-service?style=plastic)
